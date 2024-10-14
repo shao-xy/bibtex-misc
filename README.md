@@ -2,6 +2,8 @@
 
 A simple but working web application for generating simple `@misc` entries in the BibTeX without struggling with the annoying formats... Forget about that!! Just fill in the form and get the right code.
 
+The styles are simple but NOT designed for smaller devices, as I guess no one writes LaTeX code on a mobile device? :)
+
 ## Use directly
 
 Visit [https://shao-xy.github.io/bibtex-misc](https://shao-xy.github.io/bibtex-misc).
