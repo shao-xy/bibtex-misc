@@ -2,6 +2,10 @@
 
 A simple but working web application for generating simple `@misc` entries in the BibTeX without struggling with the annoying formats... Forget about that!! Just fill in the form and get the right code.
 
+## Use directly
+
+Visit [https://shao-xy.github.io/bibtex-misc](https://shao-xy.github.io/bibtex-misc).
+
 ## Build this project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
