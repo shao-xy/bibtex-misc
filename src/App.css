@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.app-root {
+	margin: 0 20%;
+	font-size: 16pt;
+	background-color: lightblue;
+	padding: 50px;
+}
+
+.app-root span.input-row {
+	margin: 5px 20px;
+	display: block;
+}
+
+.app-root label {
+	display: inline-block;
+	width: 20%;
+	text-align: right;
+	padding-right: 20px;
+}
+
+.app-root input {
+	width: 75%;
+	font-size: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.app-root textarea {
+	margin: 5px 50px;
+	width: 85%;
+	padding: 30px;
+	font-size: 20px;
+}
+
+.app-root div.button-row {
+	text-align: center;
+	overflow-wrap: break-word;
+}
+
+.app-root div.button-row button {
+	font-size: 20px;
+	margin-right: 20px;
+	width: 100px;
+}
