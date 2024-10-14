@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bibtex-misc/static/css/main.5af38e2a.css",
+    "main.js": "/bibtex-misc/static/js/main.ca8ecea5.js",
+    "index.html": "/bibtex-misc/index.html",
+    "main.5af38e2a.css.map": "/bibtex-misc/static/css/main.5af38e2a.css.map",
+    "main.ca8ecea5.js.map": "/bibtex-misc/static/js/main.ca8ecea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af38e2a.css",
+    "static/js/main.ca8ecea5.js"
+  ]
+}
